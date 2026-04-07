@@ -64,7 +64,7 @@ What it reflects:
 - collaboration and product thinking
 - building tools that make technical information more accessible
 
-### [SuperBowl-Ad-Dashboard](https://github.com/maddii28/SuperBowl-Ad-Dashboard)
+### [SuperBowl-Ad-Dashboard](https://github.com/maddhav-suneja/SuperBowl-Ad-Dashboard)
 A sentiment analysis project exploring reactions to Super Bowl commercials across online platforms.
 
 What it reflects:
