@@ -44,7 +44,7 @@ I’m especially interested in roles where I can contribute to:
 
 ## Featured Projects
 
-### Occupation Trends in Early New York
+### [Occupation Trends in Early New York](https://github.com/maddii28/Data-Viz-Project---Occupation-trends-in-NYC-1850-1890-)
 An interactive **data visualization and geospatial analysis** project built from historical NYC directory data.
 
 Highlights:
@@ -56,7 +56,7 @@ Highlights:
 Tech:
 `Python` `Pandas` `Streamlit` `Pydeck` `Plotly` `Google Maps API`
 
-### FinLitify
+### [FinLitify](https://github.com/maddii28/finlitify)
 A personal finance education platform built during an **NYU Hackathon**, where it won **Best Use of Wolfram Alpha**.
 
 What it reflects:
@@ -64,7 +64,7 @@ What it reflects:
 - collaboration and product thinking
 - building tools that make technical information more accessible
 
-### SuperBowl2025 Sentiment Analysis Dashboard
+### [SuperBowl2025 Sentiment Analysis Dashboard](https://github.com/maddii28/SuperBowl2025)
 A sentiment analysis project exploring reactions to Super Bowl commercials across online platforms.
 
 What it reflects:
@@ -75,6 +75,15 @@ What it reflects:
 
 Tech:
 `Python` `Pandas` `Flask/Dash` `Sentiment Analysis`
+
+### [Game Programming / Graphics Work](https://github.com/maddii28/GameProgram)
+A collection of graphics and game-programming experiments exploring lower-level visual systems and interactive computation.
+
+Focus areas:
+- C++
+- graphics programming
+- rendering logic
+- technical experimentation around visual systems
 
 ---
 
