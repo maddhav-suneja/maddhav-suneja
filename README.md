@@ -44,7 +44,7 @@ I’m especially interested in roles where I can contribute to:
 
 ## Featured Projects
 
-### [Occupation Trends in Early New York](https://github.com/maddii28/Data-Viz-Project---Occupation-trends-in-NYC-1850-1890-)
+### [Occupation Trends in Early New York](https://github.com/maddhav-suneja/Data-Viz-Project---Occupation-trends-in-NYC-1850-1890-)
 An interactive **data visualization and geospatial analysis** project built from historical NYC directory data.
 
 Highlights:
@@ -76,14 +76,24 @@ What it reflects:
 Tech:
 `Python` `Pandas` `Flask/Dash` `Sentiment Analysis`
 
-### [Game Programming / Graphics Work](https://github.com/maddii28/GameProgram)
-A collection of graphics and game-programming experiments exploring lower-level visual systems and interactive computation.
+### [Game Programming Portfolio](https://github.com/maddii28/GameProgram)
+A collection of 5 technical graphics and game-programming work exploring interactive systems at a lower level. 
+Utilising FSN(Finite State Machines) to mimic AI players in my games 
+This portfolio includes game projects such as:
 
-Focus areas:
-- C++
-- graphics programming
-- rendering logic
-- technical experimentation around visual systems
+1. 2d animations of tranformations of moon, earth and rockets 
+2. multiplayer ping pong(With AI mode)
+3. Moon landing Simulator Game (Hovering effect enabled)
+4. Platformer game with animated player and animated AI enemies
+5. Final Project: A Star Wars Rythmic Dance off Karaoke Game 
+
+This portfolio reflects my interest in:
+- **C++**
+- **OpenGL**
+- systems-oriented problem solving in interactive environments
+- Finite State Machines
+- rendering pipelines
+- shader-based visual logic
 
 ---
 
